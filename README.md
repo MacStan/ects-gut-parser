@@ -6,8 +6,8 @@ Currently generates heatmap which represents __total sum of hours per type of ac
 
 ## Requirements
 * Python
-** numpy
-** matplotlib
+  * numpy
+  * matplotlib
 
 ## Example
 ![Alt Text](https://github.com/MacStan/ects-gut-parser/blob/master/heatmaps/example.png)
